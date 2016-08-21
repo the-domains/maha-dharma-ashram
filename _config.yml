@@ -1,22 +1,24 @@
+layout_spectrum: 0.20102935982868075
+typography_spectrum: 0.5172961829230189
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.761688232421875
+  lightness: 0.3811385319568217
+  saturation: 0.05617648595944047
+  rhythmicContrast: 0.8067462251055986
+coverPrefs:
+  filter: false
 name: Maha Dharma Ashram
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d689ff98-5bae-42e2-93c7-600b1e87fec6.png
-layout_spectrum: 0.42037287075072527
-typography_spectrum: 0.19199994741939008
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  brandStrength: 0.6247505121864378
-  lightness: 0.12584445206448436
-  saturation: 0.053255501203238964
-  rhythmicContrast: 0.18936093524098396
 title: ''
 author:
   name: ''
